@@ -1,0 +1,7 @@
+# Работа с PostgreSQL из Python
+psycopg2-binary
+
+# Работа с данными и Jupyter Notebook
+pandas
+ipython-sql
+python-dotenv
